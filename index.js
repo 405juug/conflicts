@@ -2,6 +2,6 @@ const sum = (a, b) => {
     return a + b
 }
 
-const multyplay = () =>{
+const multyplay = (a, b) =>{
     return a * b;
 }
